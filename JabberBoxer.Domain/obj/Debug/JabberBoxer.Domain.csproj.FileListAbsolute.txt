@@ -1,0 +1,12 @@
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\bin\Debug\Novologix.Domain.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\bin\Debug\Novologix.Domain.pdb
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\obj\Debug\JabberBoxer.Domain.csprojAssemblyReference.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\obj\Debug\JabberBoxer.Domain.csproj.CoreCompileInputs.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\obj\Debug\Novologix.Domain.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Domain\obj\Debug\Novologix.Domain.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\bin\Debug\Novologix.Domain.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\bin\Debug\Novologix.Domain.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\obj\Debug\JabberBoxer.Domain.csproj.AssemblyReference.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\obj\Debug\JabberBoxer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\obj\Debug\Novologix.Domain.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Domain\obj\Debug\Novologix.Domain.pdb

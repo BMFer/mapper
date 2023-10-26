@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_UnitTests", "_UnitTests", "{EEF0DA17-695D-4779-9731-E454EDB3E063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabberBoxer.Mapping.Lib.UnitTests", "JabberBoxer.Mapping.Lib.UnitTests\JabberBoxer.Mapping.Lib.UnitTests.csproj", "{B82F6B71-2C9F-443A-9986-2E233B6B39E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object Libraries", "Object Libraries", "{8876E789-1666-47E8-857F-2AC94A20520F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabberBoxer.Domain", "JabberBoxer.Domain\JabberBoxer.Domain.csproj", "{29AF02AC-7EB3-4213-9530-84DA753FD5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabberBoxer.Codomain", "JabberBoxer.Codomain\JabberBoxer.Codomain.csproj", "{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Some.Domain.ConsoleApp", "Some.Domain.ConsoleApp\Some.Domain.ConsoleApp.csproj", "{F8460879-9672-4F4A-A1AC-F026A1B9F12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabberBoxer.Mapping.Lib", "JabberBoxer.Mapping.Lib\JabberBoxer.Mapping.Lib.csproj", "{8CFE07E7-86E0-4FCA-86CE-7C1A3E4BA57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82F6B71-2C9F-443A-9986-2E233B6B39E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82F6B71-2C9F-443A-9986-2E233B6B39E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82F6B71-2C9F-443A-9986-2E233B6B39E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82F6B71-2C9F-443A-9986-2E233B6B39E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AF02AC-7EB3-4213-9530-84DA753FD5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AF02AC-7EB3-4213-9530-84DA753FD5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AF02AC-7EB3-4213-9530-84DA753FD5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AF02AC-7EB3-4213-9530-84DA753FD5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8460879-9672-4F4A-A1AC-F026A1B9F12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8460879-9672-4F4A-A1AC-F026A1B9F12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8460879-9672-4F4A-A1AC-F026A1B9F12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8460879-9672-4F4A-A1AC-F026A1B9F12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFE07E7-86E0-4FCA-86CE-7C1A3E4BA57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFE07E7-86E0-4FCA-86CE-7C1A3E4BA57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFE07E7-86E0-4FCA-86CE-7C1A3E4BA57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFE07E7-86E0-4FCA-86CE-7C1A3E4BA57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B82F6B71-2C9F-443A-9986-2E233B6B39E1} = {EEF0DA17-695D-4779-9731-E454EDB3E063}
+		{29AF02AC-7EB3-4213-9530-84DA753FD5E6} = {8876E789-1666-47E8-857F-2AC94A20520F}
+		{6EFAFE0D-5716-4347-BC21-0F4B3BF158AF} = {8876E789-1666-47E8-857F-2AC94A20520F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F73C72-5068-4634-9535-D7E067783053}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://brejay.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Some.Domain.ConsoleApp\\Some.Domain.ConsoleApp.csproj
+		SccProjectName1 = Some.Domain.ConsoleApp
+		SccLocalPath1 = Some.Domain.ConsoleApp
+		SccProjectUniqueName2 = JabberBoxer.Mapping.Lib.UnitTests\\JabberBoxer.Mapping.Lib.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName2 = JabberBoxer.Mapping.sln
+		SccProjectName2 = JabberBoxer.Mapping.Lib.UnitTests
+		SccLocalPath2 = JabberBoxer.Mapping.Lib.UnitTests
+		SccProjectUniqueName3 = JabberBoxer.Codomain\\JabberBoxer.Codomain.csproj
+		SccProjectTopLevelParentUniqueName3 = JabberBoxer.Mapping.sln
+		SccProjectName3 = JabberBoxer.Codomain
+		SccLocalPath3 = JabberBoxer.Codomain
+		SccProjectUniqueName4 = JabberBoxer.Domain\\JabberBoxer.Domain.csproj
+		SccProjectTopLevelParentUniqueName4 = JabberBoxer.Mapping.sln
+		SccProjectName4 = JabberBoxer.Domain
+		SccLocalPath4 = JabberBoxer.Domain
+		SccProjectUniqueName5 = JabberBoxer.Mapping.Lib\\JabberBoxer.Mapping.Lib.csproj
+		SccProjectName5 = JabberBoxer.Mapping.Lib
+		SccLocalPath5 = JabberBoxer.Mapping.Lib
+	EndGlobalSection
+EndGlobal

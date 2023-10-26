@@ -1,0 +1,12 @@
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\bin\Debug\JabberBoxer.Codomain.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\bin\Debug\JabberBoxer.Codomain.pdb
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.csprojAssemblyReference.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.csproj.CoreCompileInputs.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\bin\Debug\JabberBoxer.Codomain.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\bin\Debug\JabberBoxer.Codomain.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.csproj.AssemblyReference.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.csproj.CoreCompileInputs.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Codomain\obj\Debug\JabberBoxer.Codomain.pdb

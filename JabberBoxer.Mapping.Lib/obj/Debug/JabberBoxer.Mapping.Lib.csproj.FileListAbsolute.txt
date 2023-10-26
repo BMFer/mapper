@@ -1,0 +1,12 @@
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\bin\Debug\JabberBoxer.Mapping.Lib.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\bin\Debug\JabberBoxer.Mapping.Lib.pdb
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.csprojAssemblyReference.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.csproj.CoreCompileInputs.cache
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.dll
+C:\_code\Pesonal\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\bin\Debug\JabberBoxer.Mapping.Lib.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\bin\Debug\JabberBoxer.Mapping.Lib.pdb
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.csproj.AssemblyReference.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.csproj.CoreCompileInputs.cache
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.dll
+C:\Users\krypt-o-knight\Desktop\Mapping\Mapping\JabberBoxer.Mapping.Lib\obj\Debug\JabberBoxer.Mapping.Lib.pdb
